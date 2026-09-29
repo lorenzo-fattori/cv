@@ -1,5 +1,5 @@
 # cv
-This repository contains my CVs, available in both Italian and English.
+This repository contains my CV, available in both Italian and English.
 
 📄 Versions
 
