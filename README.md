@@ -1,5 +1,5 @@
 # cv
-This repository contains my Curriculum Vitae, available in both Italian and English languages.
+This repository contains my Curriculum Vitae, available in both Italian and English.
 
 📄 Versions
 
