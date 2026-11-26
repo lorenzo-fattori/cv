@@ -1,7 +1,7 @@
 # cv
 This repository contains my Curriculum Vitae, available in both Italian and English.
 
-📄 Versions
+📄 Versions:
 
 * 🇬🇧 English: `Lorenzo_Fattori_CV_en.pdf`
 * 🇮🇹 Italian: `Lorenzo_Fattori_CV_it.pdf`
